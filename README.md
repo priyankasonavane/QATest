@@ -10,5 +10,4 @@ Instructions:
 9. Come up with test that will fail and add explanation of failure as part of report
 
 Code is structured using Maven,TestNG, Selenium WebDriver and Page Objects
-Java code is under Test folder
-emailable-report.html and index.html are two reports genertated using TestNg framework which includes numbers of test cases passed, failed and skipped.
+Java code is under Test folder.Emailable-report.html and index.html are two reports genertated using TestNg framework which includes numbers of test cases passed, failed and skipped.
