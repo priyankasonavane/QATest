@@ -11,3 +11,4 @@ Instructions:
 
 Code is structured using Maven,TestNG, Selenium WebDriver and Page Objects
 Java code is under Test folder.Emailable-report.html and index.html are two reports genertated using TestNg framework which includes numbers of test cases passed, failed and skipped.
+Last testcase i.e. gettwitterlinksFromAllTabs is failed which is a part of assignemeent and in report the explaination is given for its failure.
